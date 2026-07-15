@@ -1,4 +1,4 @@
-# 🛡️ IT-Ticketing toll
+# 🛡️ IT-Ticketing tool
 
 An automated, full-stack IT helpdesk ticketing system powered by **Gemini API** for automated issue classification and triage scoring. Built with a lightweight backend using **Express.js** and **SQLite**, wrapped inside a sleek, responsive cyber-ops themed management console dashboard.
 
